@@ -1,0 +1,9 @@
+(
+  name: "U",
+  summary: "Utility stuff",
+  version: "1.0.0",
+  schelp: "U",
+  dependencies: [],
+  license: "GPL",
+  copyright: "Mads Kjeldgaard 2018"
+  )
